@@ -1,26 +1,37 @@
 # 👋 Hey there! I'm Kent
 
-![Profile Views](https://komarev.com/ghpvc/?username=danzph&label=Profile%20views&color=0e75b6&style=flat")
+![Profile Views](https://komarev.com/ghpvc/?username=danzph&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🚀 About Me
-- 👀 Passionat about **programming** and solving real-world problems with code.
-- 🌱 Currently learning **C#, ASP.NET, React.js, SQL, and Laravel**.
+- 👀 Passionate about **programming** and solving real-world problems with code.
+- 🌱 Currently learning **Laravel**.
 - 💡 I build **web applications, POS systems, and language learning platforms**.
 - 💞️ Open to collaborations on **full-stack projects and software development**.
-
 ---
+
 
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANZPH&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="DANZPH's GitHub Stats" />
-<!--   <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANZPH&theme=vue-dark&layout=compact&hide_border=true" alt="DANZPH's Top Languages" />
-  <br/>
-  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DANZPH&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="DANZPH's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANZPH&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="DANZPH's Top Languages" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DANZPH&theme=vue-dark&hide_border=true" alt="DANZPH's Streak" />
 </p>
 
 ---
+
+### 🎓 Certifications (via Certiport)
+
+<p align="center">
+  <img src="https://certiport.pearsonvue.com/getattachment/Blog/2021/September/Getting-to-Know-the-IT-Specialist-Certification/ITS-Logo-Stacked.png?lang=en-US&width=800&height=612&ext=.png" alt="Certiport Logo" width="150" />
+</p>
+
+**🏅 Certified in:**
+- Database Fundamentals  
+- HTML & CSS  
+- Networking Fundamentals
+
+
 
 
 ### 🛠️ Tech Stack
