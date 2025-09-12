@@ -52,7 +52,7 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40"/>
+
 </div>
 
 
@@ -63,6 +63,7 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
   <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40"/>
 </div>
 
 ---
