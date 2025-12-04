@@ -24,12 +24,7 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://
-github-readme-stats-two-ochre-16.vercel.app/api?username=DANZPH&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=400" alt="DANZPH's Stats" />
-  
-  <img height="180em" src="https://
-github-readme-stats-two-ochre-16.vercel.app/api/top-langs/?username=DANZPH&theme=vue-dark&show_icons=true&hide_border=true&card_width=400" alt="DANZPH's Top Languages" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   
 </div>
 
