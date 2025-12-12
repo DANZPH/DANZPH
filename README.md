@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=danzph&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=DANZPH&theme=github_darky)
 
 </div>
 
