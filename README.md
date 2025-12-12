@@ -1,11 +1,4 @@
 # 👋 Hey there! I'm Kent
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=DANZPH&theme=github_darky)
-
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -22,13 +15,19 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-  
-</div>
-
----
+<table>
+  <tr>
+    <td style="padding: 5px; text-align: center;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DANZPH&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&card_width=280&card_height=160" width="280" height="160" alt="GitHub Stats" />
+    </td>
+    <td style="padding: 5px; text-align: center;">
+      <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=DANZPH&theme=github_light&border_radius=0&card_width=280" width="280" height="160" alt="Streak Stats" />
+    </td>
+    <td style="padding: 5px; text-align: center;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DANZPH&theme=transparent&hide_border=true&layout=compact&card_width=280&card_height=160" width="280" height="160" alt="Top Languages" />
+    </td>
+  </tr>
+</table>                             
 
 ### 🛠️ Tech Stack & Tools
 
@@ -65,31 +64,39 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
 
 ---
 
-### 🎓 Certifications (via Certiport)
+### 🎓 Certifications
 
 <div align="center">
-  <!-- Main Certification Screenshot -->
-  <p>
-    <img src="https://i.ibb.co/Pzcvsgbn/Screenshot-2025-09-12-204858.png" alt="Certiport Certifications" style="width: 355px; height: auto;" />
-  </p>
-
-  <!-- Certification Badges -->
-  <p><strong>🏅 Certified in:</strong></p>
-  
-  <p>
-    <img src="https://i.ibb.co/RkCLKzYH/database.png" alt="Database Fundamentals" style="height: 80px; width: auto; margin: 5px;" />
-    <img src="https://i.ibb.co/RkWJWwVH/html-css.png" alt="HTML & CSS" style="height: 80px; width: auto; margin: 5px;" />
-    <img src="https://i.ibb.co/1fRzMX81/networking.png" alt="Networking Fundamentals" style="height: 80px; width: auto; margin: 5px;" />
-  </p>
-
-  <ul style="list-style-type: none; padding: 0; margin: 10px 0 0 0;">
-    <li>✅ <em>Database Fundamentals</em></li>
-    <li>✅ <em>HTML & CSS</em></li>
-    <li>✅ <em>Networking Fundamentals</em></li>
-  </ul>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/49a492cd-5f72-4c9d-aafa-06649e4853fb">
+          <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" width="60" height="60" alt="IT Specialist - Databases" />
+        </a><br><sub>IT Spec - DB</sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/e2dc688d-de61-44a5-81af-ee96f117a211">
+          <img src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" width="60" height="60" alt="IT Specialist - HTML/CSS" />
+        </a><br><sub>IT Spec - Web</sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/6713c2e4-0562-4a4f-ad1b-27a0069491d8">
+          <img src="https://images.credly.com/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png" width="60" height="60" alt="IT Specialist - Networking" />
+        </a><br><sub>IT Spec - Net</sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/b93bf373-3da6-4ada-9879-a0c39d6a11f8">
+          <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="60" height="60" alt="JavaScript Essentials 1" />
+        </a><br><sub>JS Essentials</sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58">
+          <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="60" height="60" alt="Ethical Hacker" />
+        </a><br><sub>Ethical Hack</sub>
+      </td>
+    </tr>
+  </table>
 </div>
-
----
 
 <div align="center">
   <sub>💖 Thanks for visiting my profile!</sub>
