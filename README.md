@@ -18,16 +18,15 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
 <table>
   <tr>
     <td style="padding: 5px; text-align: center;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DANZPH&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&card_width=280&card_height=160" width="280" height="160" alt="GitHub Stats" />
+      <img src="https://readme-stats-github.pages.dev/api?username=DANZPH&theme=dark" alt="DANZPH's GitHub Stats" />
     </td>
     <td style="padding: 5px; text-align: center;">
-      <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=DANZPH&theme=github_light&border_radius=0&card_width=280" width="280" height="160" alt="Streak Stats" />
-    </td>
-    <td style="padding: 5px; text-align: center;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DANZPH&theme=transparent&hide_border=true&layout=compact&card_width=280&card_height=160" width="280" height="160" alt="Top Languages" />
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=DANZPH&theme=dark" alt="Top Languages" />
     </td>
   </tr>
-</table>                             
+</table>
+
+                      
 
 ### 🛠️ Tech Stack & Tools
 
@@ -93,6 +92,11 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
         <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58">
           <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="60" height="60" alt="Ethical Hacker" />
         </a><br><sub>Ethical Hack</sub>
+      </td>
+       <td align="center">
+        <a href="https://www.credly.com/badges/5c5aa127-52bb-4d0b-8375-5ab157a9e6f5">
+          <img src="" width="60" height="60" alt="IT Specialist - Network Security" />
+        </a><br><sub>Net Security</sub>
       </td>
     </tr>
   </table>
