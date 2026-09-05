@@ -87,20 +87,21 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
         <a href="https://www.credly.com/badges/b93bf373-3da6-4ada-9879-a0c39d6a11f8">
           <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="60" height="60" alt="JavaScript Essentials 1" />
         </a><br><sub>JS Essentials</sub>
-      </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5c5aa127-52bb-4d0b-8375-5ab157a9e6f5">
+        <img src="https://i.ibb.co/2YZKfPbT/it-specialist-network-security.png"
+            width="60"
+            height="60"
+            alt="IT Specialist - Network Security" />
+      </a><br>
+      <sub>Net Security</sub>
+    </td>
+    </td>
       <td align="center">
         <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58">
           <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="60" height="60" alt="Ethical Hacker" />
         </a><br><sub>Ethical Hack</sub>
-<td align="center">
-  <a href="https://www.credly.com/badges/5c5aa127-52bb-4d0b-8375-5ab157a9e6f5">
-    <img src="https://i.ibb.co/2YZKfPbT/it-specialist-network-security.png"
-         width="60"
-         height="60"
-         alt="IT Specialist - Network Security" />
-  </a><br>
-  <sub>Net Security</sub>
-</td>
+      
     </tr>
   </table>
 </div>
