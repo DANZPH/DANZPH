@@ -1,9 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kent" alt="Hey there! I'm Kent" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kent" alt="Hey there! I'm Kent" />
 </h1>
 
-<hr />
 
+<hr />
+<div align="center">
+
+```text
+▓█████▄  ▄▄▄       ███▄    █ ▒███████▒ ██▓███   ██░ ██ 
+▒██▀ ██▌▒████▄     ██ ▀█   █ ▒ ▒ ▒ ▄▀░▓██░  ██▒▓██░ ██▒
+░██   █▌▒██  ▀█▄  ▓██  ▀█ ██▒░ ▒ ▄▀▒░ ▓██░ ██▓▒▒██▀▀██░
+░▓█▄   ▌░██▄▄▄▄██ ▓██▒  ▐▌██▒  ▄▀▒   ░▒██▄█▓▒ ▒░▓█ ░██ 
+░▒████▓  ▓█   ▓██▒▒██░   ▓██░▒███████▒▒██▒ ░  ░░▓█▒░██▓
+ ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒░   ▒ ▒ ░▒▒ ▓░▒░▒▒▓▒░ ░  ░ ▒ ░░▒░▒
+ ░ ▒  ▒   ▒   ▒▒ ░░ ░░   ░ ▒░░░▒ ▒ ░ ▒░▒ ░      ▒ ░▒░ ░
+ ░ ░  ░   ░   ▒      ░   ░ ░ ░ ░ ░ ░ ░░░        ░  ░░ ░
+   ░          ░  ░         ░   ░ ░              ░  ░  ░
+ ░                           ░                         
+```
 ### About Me
 
 <blockquote>
