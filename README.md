@@ -69,31 +69,31 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.credly.com/badges/49a492cd-5f72-4c9d-aafa-06649e4853fb">
+        <a href="https://www.credly.com/badges/fcc36e73-e7c0-4cca-9109-6eba8168f1b7/public_url">
           <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" width="60" height="60" alt="IT Specialist - Databases" />
         </a><br><sub>IT Spec - DB</sub>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/e2dc688d-de61-44a5-81af-ee96f117a211">
+        <a href="https://www.credly.com/badges/c1c4a14d-a270-4301-b2f4-e313e2d4a7ac/public_url">
           <img src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" width="60" height="60" alt="IT Specialist - HTML/CSS" />
         </a><br><sub>IT Spec - Web</sub>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/6713c2e4-0562-4a4f-ad1b-27a0069491d8">
+        <a href="https://www.credly.com/badges/7f72fa72-1667-4a49-aeb2-8ff929bf4bed/public_url">
           <img src="https://images.credly.com/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png" width="60" height="60" alt="IT Specialist - Networking" />
         </a><br><sub>IT Spec - Net</sub>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/b93bf373-3da6-4ada-9879-a0c39d6a11f8">
+        <a href="https://www.credly.com/badges/4fc2c5a9-761c-4c93-8369-5ac7bb39aaa4/public_url">
           <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="60" height="60" alt="JavaScript Essentials 1" />
         </a><br><sub>JS Essentials</sub>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/242902b5-f527-42ad-865e-977c9e1b5b58">
+        <a href="https://www.credly.com/badges/260d0e51-df08-4e82-9a39-5de14d161d1d/public_url">
           <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="60" height="60" alt="Ethical Hacker" />
         </a><br><sub>Ethical Hack</sub>
 <td align="center">
-  <a href="https://www.credly.com/badges/5c5aa127-52bb-4d0b-8375-5ab157a9e6f5">
+  <a href="https://www.credly.com/badges/5c5aa127-52bb-4d0b-8375-5ab157a9e6f5/public_url">
     <img src="https://i.ibb.co/2YZKfPbT/it-specialist-network-security.png"
          width="60"
          height="60"
@@ -101,6 +101,8 @@ I'm a passionate **programmer** who loves solving real-world problems with code.
   </a><br>
   <sub>Net Security</sub>
 </td>
+
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72253241-badd-49c4-bcf4-232110b65bb4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     </tr>
   </table>
 </div>
